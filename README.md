@@ -4,6 +4,16 @@ Simple script to swap the license header of Java files.
 
 This script is intended for my personal use. No assumption should be made that it will work for you as is, or at all.
 
+## Prerequisites
+
+On OS X, you need **gsed**:
+
+```
+brew install gsed
+```
+
+If you are on GNU/Linux, replace all the **gsed** in **license_text.txt** with just *sed*.
+
 ## Usage
 
 1. Replace the content of **license_text.txt** with the new license header text.
