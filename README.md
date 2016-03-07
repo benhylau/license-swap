@@ -12,7 +12,7 @@ On OS X, you need **gsed**:
 brew install gsed
 ```
 
-If you are on GNU/Linux, replace all the `gsed` in **license_text.txt** with just `sed`.
+If you are on GNU/Linux, replace all the `gsed` in **license_swap.sh** with just `sed`.
 
 ## Usage
 
