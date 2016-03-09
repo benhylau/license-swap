@@ -1,11 +1,11 @@
 # license-swap
 
-[![forthebadge](http://forthebadge.com/images/badges/made-with-crayons.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/pretty-risque.svg)](http://forthebadge.com)
-
 Simple script to swap the license header of Java files.
 
 This script is intended for my personal use. No assumption should be made that it will work for you as is, or at all.
+
+[![forthebadge](http://forthebadge.com/images/badges/made-with-crayons.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/pretty-risque.svg)](http://forthebadge.com)
 
 ## Prerequisites
 
